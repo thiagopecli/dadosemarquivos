@@ -1,3 +1,6 @@
+# 1. Funções de manipulação de arquivos
+# Lidando com dados binários em arquivo com Python
+
 from PIL import Image
 import numpy as np
 

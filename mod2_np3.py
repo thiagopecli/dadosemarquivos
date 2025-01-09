@@ -1,3 +1,6 @@
+# 2. Funções de manipulação de strings
+# Codificando mensagens com Python
+
 def zenit_polar_replace(text):
     # Aplicar a codificação Z-E-N-I-T-E-T-P-O-L-A-R Utilizando o método replace
     replacements = [('z', 'p'), ('e', 'o'), ('n', 'l'), ('i', 'a'), ('t', 'r'), ('p', 'z'), ('o', 'e'), ('l', 'n'), ('a', 'i'), ('r', 't'), # Minusculas
