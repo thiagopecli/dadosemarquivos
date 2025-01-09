@@ -1,3 +1,6 @@
+# 1. Funções de manipulação de arquivos
+# Atributos do objeto tipo arquivo
+
 import os
 
 # Abrindo o arquivo no modo escrita

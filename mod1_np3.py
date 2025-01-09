@@ -1,3 +1,6 @@
+# 1.Funções de manipulação de arquivos
+# Manipulando arquivo-texto em Python
+
 def main():
     print("Digite suas Frases. Digite 'sair' para terminar e salvar o arquivo.")
     frases = []
